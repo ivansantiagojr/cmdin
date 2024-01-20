@@ -1,0 +1,10 @@
+site_name: cmdin
+repo_url: https://github.com/ivansantiagojr/cmdin
+repo_name: ivansantiagojr/cmdin
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+
+watch:
+  - cmdin
